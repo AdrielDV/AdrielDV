@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fala DEV’S’! Meu nome é Adriel e no momento estou trabalhando em projetos pessoais<br>na tecnologia Java. Estudou também estudando Java junto ao desenvolvimento web e suas nuanças.<br>Seja bem vindo ao meu perfil!<br><br>Skills:<br>SQL;<br>Git;<br>Core Java;<br>SpringBoot (Em andamento);
+Fala DEV’S’! Meu nome é Adriel e no momento estou trabalhando em projetos pessoais<br>na tecnologia Java. Estudou também estudando Java junto ao desenvolvimento web e suas nuanças.<br>Seja bem vindo ao meu perfil!<br><br>Skills:<br>SQL;<br>Git;<br>Java 11;<br>SpringBoot;<br>RESTful-API;<br>Lambda;
 
 
 ## 🌐 Socials:
