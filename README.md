@@ -1,21 +1,35 @@
-# 💫 About Me:
-Fala DEV’S’! Meu nome é Adriel e no momento estou trabalhando em projetos pessoais<br>na tecnologia Java. Estudou também estudando Java junto ao desenvolvimento web e suas nuanças.<br>Seja bem vindo ao meu perfil!<br><br>Skills:<br>SQL;<br>Git;<br>Java 11;<br>SpringBoot;<br>RESTful-API;<br>Lambda;
+
+# Olá, eu sou Adriel dos Santos 👋
+
+Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes usando tecnologias modernas e antigas. Tenho experiência em desenvolvimento web com Java 11, Spring Boot, RESTful-API, Lambda, JDBC, JPA e Hibernate. Também tenho conhecimentos em SQL e Git para gerenciar bancos de dados e versionamento de código. Tenho inglês fluente e 23 anos de idade.
+
+## Minhas habilidades 🚀
+
+- SQL ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- Java 11 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+- Spring Boot ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+- RESTful-API ![RESTful-API](https://img.icons8.com/nolan/64/api-settings.png)
+- Lambda ![Lambda](https://img.icons8.com/color/48/000000/lambda.png)
+- JDBC ![JDBC](https://img.icons8.com/color/48/000000/database.png)
+- Hibernate ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adriel Dos Santos) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdrielDV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdrielDV&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielDV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Meus commits e infos do GitHub 📊
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdrielDV&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Você pode ver o meu histórico de commits e outras informações do GitHub nos gráficos abaixo:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <a href="https://github.com/AdrielDV">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrielDV&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdrielDV&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Meu LinkedIn 💼
+
+Você pode me encontrar no LinkedIn para saber mais sobre mim e minha experiência profissional:
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/adriel-dos-santos-137434234/)
