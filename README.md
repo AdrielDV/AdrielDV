@@ -1,7 +1,7 @@
 
 # Olá, eu sou Adriel dos Santos 👋
 
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes usando tecnologias modernas e antigas. Tenho experiência em desenvolvimento web com Java 11, Spring Boot, RESTful-API, Lambda, JDBC, JPA e Hibernate. Também tenho conhecimentos em SQL e Git para gerenciar bancos de dados e versionamento de código. Tenho inglês fluente e 23 anos de idade.
+Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes usando tecnologias modernas e antigas. Tenho experiência em desenvolvimento web com Java 11, Spring Boot, RESTful-API, Lambda, JDBC, JPA e Hibernate. Também tenho conhecimentos em SQL e Git para gerenciar bancos de dados e versionamento de código. Inglês fluente.
 
 ## Minhas habilidades 🚀
 
